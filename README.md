@@ -1,5 +1,2 @@
-# Hactoberfest
-31 May 2018
-tshirt
-Hello Daipu
-i
+# Hactoberfest(1st oct - 31st oct)
+
